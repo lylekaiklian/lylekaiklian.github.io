@@ -1,0 +1,235 @@
+html, body, .pf-main-container {
+  height: 100%;
+  background: #1a1a1a;
+}
+/*global style for every page content*/
+.sub-content {
+  height: 100%;
+  background: #1c1c1c;
+  padding-bottom: 40px;
+}
+
+@font-face {
+  font-family: 'lato';
+  src: url('../fonts/Lato/Lato-Regular.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Lato/Lato-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'lato-light';
+  src: url('../fonts/Lato/Lato-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Lato/Lato-Light.woff')  format('woff');
+}
+
+@font-face {
+  font-family: 'lato-extra-light';
+  src: url('../fonts/Lato/Lato-ExtraLight.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Lato/Lato-ExtraLight.woff')  format('woff');
+}
+
+@font-face {
+  font-family: 'signature';
+  src: url('../fonts/ArtySignature.otf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Lato-ExtraLight.woff')  format('woff');
+}
+
+@font-face {
+  font-family: 'HenriDidot';
+  src: url('../fonts/Henry-Didot/HenriDidot.otf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Henry-Didot/HenriDidot.woff')  format('woff');
+}
+
+.title {
+  color: white !important;
+  font-family: 'HenriDidot';
+  text-transform: uppercase;
+  font-size: 10pt;
+  letter-spacing: 3px;
+}
+
+#home {
+  display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+  background: url(../images/photos/gel.jpg);
+  background-size: cover; 
+  opacity: 0;
+  -webkit-animation: fadeIn 1s 1s linear forwards;
+}
+
+@-webkit-keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+#home span {
+  color: #ffffff;
+  font-weight: lighter;
+  letter-spacing: 8px;
+  position: relative;
+  top: -120px;
+  font-size: 7pt;
+}
+
+#about {
+  background: #1c1c1c !important;
+}
+
+#about hr {
+  opacity: .3;
+}
+
+#about p {
+  color: #ffffff;
+  line-height: 3;
+  text-indent: 40px;
+}
+
+#gallery {
+  height: 720px;
+  background: #f5f5f5;
+}
+
+@media screen and (max-width: 768px) {
+  .navbar {
+    background: none;
+    border: none;
+  }
+}
+
+.navbar {
+  background: none;
+  border: none;
+  padding: 20px 40px;
+}
+
+.navbar-nav li a{
+  color: white !important;
+  font-family: lato-extra-light;
+  transition: all .5s ease;
+}
+
+.navbar-nav li a:hover {
+  color: #dd5543 !important;
+}
+
+.navbar-nav li a.active {
+  color: #dd5543 !important;
+}
+
+.portfolio-main-container {
+  height: 100%;
+}
+
+.henriDidot {
+  font-family: HenriDidot;
+}
+
+.border-left {
+  border-left: 1px solid #dd5543;
+  padding-left: 20px;
+}
+
+.div-title {
+  font-family: lato-extra-light;
+  color: #c6c6c6;
+  font-size: 4vw;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+.full-height {
+  height: 100%;
+}
+
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%;
+  min-height: 100%;
+}
+
+.v-center {
+  vertical-align: middle !important;
+  display: table-cell !important;
+}
+
+.about {
+  height: 100%;
+  background: url(../images/photos/bg.png);
+  background-size: cover; 
+  opacity: 0;
+  -webkit-animation: fadeIn 1s 1s linear forwards;
+}
+
+.about .left {
+  height: 100%;
+}
+
+.about .right {
+  height: 100%;
+}
+
+.about .about-me {
+  font-family: lato-light;
+  color: #c6c6c6;
+  line-height: 2;
+}
+
+.contacts {
+  height: 100%;
+  background: url(../images/photos/katg2.jpg);
+  background-size: cover; 
+  opacity: 0;
+  -webkit-animation: fadeIn 1s 1s linear forwards;
+  background-position-y: -200px;
+}
+
+.contacts.left {
+  height: 100%;
+  background: #1a1a1a;
+}
+
+.contacts .contact-info strong {
+  font-family: lato-light;
+  color: #c6c6c6;
+  font-size: 20pt;
+}
+
+.contacts .contact-info span {
+  font-family: lato-extra-light;
+  color: #dd5543;
+  font-size: 20pt;
+}
+
+.contacts.right {
+  height: 100%;
+}
+
+.navbar-toggle, .navbar-toggle:hover, .navbar-toggle:focus {
+  background-color: transparent !important;
+  border: none;
+  
+}
+
+.navbar-toggle span.icon-bar {
+  background-color: #dd5543 !important;
+}
+
+#works {
+  padding-top: 80px;
+}
+.grid-item {
+  margin-bottom: 20px;
+}
+
+.grid-item img {
+  width: 400px;
+}
