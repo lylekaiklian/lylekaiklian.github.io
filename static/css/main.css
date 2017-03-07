@@ -163,7 +163,7 @@ html, body, .pf-main-container {
 
 .about {
   height: 100%;
-  background: url(../images/photos/bg.png);
+  background: url(../images/photos/gel.jpg);
   background-size: cover; 
   opacity: 0;
   -webkit-animation: fadeIn 1s 1s linear forwards;
