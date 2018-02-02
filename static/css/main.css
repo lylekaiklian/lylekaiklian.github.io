@@ -43,8 +43,6 @@ html, body, .pf-main-container {
   color: white !important;
   font-family: 'HenriDidot';
   text-transform: uppercase;
-  font-size: 10pt;
-  letter-spacing: 3px;
 }
 
 #home {
@@ -78,24 +76,6 @@ html, body, .pf-main-container {
   font-size: 7pt;
 }
 
-#about {
-  background: #1c1c1c !important;
-}
-
-#about hr {
-  opacity: .3;
-}
-
-#about p {
-  color: #ffffff;
-  line-height: 3;
-  text-indent: 40px;
-}
-
-#gallery {
-  height: 720px;
-  background: #f5f5f5;
-}
 
 @media screen and (max-width: 768px) {
   .navbar {
@@ -232,4 +212,83 @@ html, body, .pf-main-container {
 
 .grid-item img {
   width: 400px;
+}
+
+/*     new         */
+
+.side-nav {
+  z-index: 9;
+  list-style-type: none;
+  line-height: 60px;
+}
+
+.side-nav li a {
+  text-decoration: none;
+}
+
+.side-nav li a span {
+  position: relative;
+  font-size: 8pt;
+  top: 1px;
+  left: 5px;
+  color: #ffffff;
+  letter-spacing: 4px;
+  display: none;
+}
+
+.side-nav-icon {
+  width:10px;
+}
+
+#home {
+  height: 740px;
+  background: url(../images/photos/home.jpg);
+  background-size: cover;
+  z-index: 1;
+}
+
+.logo {
+  font-size: 10vw;
+  letter-spacing: 30px;
+  color: white !important;
+  font-family: 'HenriDidot';
+  text-transform: uppercase;
+}
+
+.sub-logo {
+  font-family: lato-light;
+  font-size: 12pt;;
+  color: white !important;
+  text-transform: uppercase;
+  letter-spacing: 13px;
+  
+}
+
+#gallery {
+  height: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#gallery .img-container {
+  padding: 10px;
+}
+
+#gallery .img-container img {
+  width: 100%;
+}
+
+#about {
+  height: 800px;
+  background: url(../images/photos/about.jpg);
+  background-size: cover;
+}
+
+#about span {
+  font-size: 12pt;
+  
+  font-family: lato-light;
+  
+  line-height: 2;
+  
 }

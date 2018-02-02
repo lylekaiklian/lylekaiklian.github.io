@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="720px" height="140.316px" viewBox="0 0 720 140.316" enable-background="new 0 0 720 140.316" xml:space="preserve">
+<rect y="9" width="8.75" height="126.125"/>
+<rect x="27.125" y="9" width="8.75" height="126.125"/>
+<rect x="54.125" y="9" width="8.75" height="126.125"/>
+<rect x="81.167" y="9.096" width="8.75" height="126.125"/>
+<rect x="108.292" y="9.096" width="8.75" height="126.125"/>
+<rect x="135.292" y="9.096" width="8.75" height="126.125"/>
+<rect x="162.646" y="9.048" width="8.75" height="126.125"/>
+<rect x="189.771" y="9.048" width="8.75" height="126.125"/>
+<rect x="216.771" y="9.048" width="8.75" height="126.125"/>
+<rect x="243.812" y="9.144" width="8.75" height="126.125"/>
+<rect x="270.938" y="9.144" width="8.75" height="126.125"/>
+<rect x="297.938" y="9.144" width="8.75" height="126.125"/>
+<rect x="324.271" y="9.072" width="8.75" height="126.125"/>
+<rect x="351.396" y="9.072" width="8.75" height="126.125"/>
+<rect x="378.396" y="9.072" width="8.75" height="126.125"/>
+<rect x="405.438" y="9.167" width="8.75" height="126.125"/>
+<rect x="432.562" y="9.167" width="8.75" height="126.125"/>
+<rect x="459.562" y="9.167" width="8.75" height="126.125"/>
+<rect x="486.918" y="9.12" width="8.75" height="126.125"/>
+<rect x="514.043" y="9.12" width="8.75" height="126.125"/>
+<rect x="541.043" y="9.12" width="8.75" height="126.125"/>
+<rect x="568.084" y="9.215" width="8.75" height="126.125"/>
+<rect x="595.209" y="9.215" width="8.75" height="126.125"/>
+<rect x="622.209" y="9.215" width="8.75" height="126.125"/>
+<rect x="648.043" y="9.215" width="8.75" height="126.125"/>
+<rect x="675.084" y="9.311" width="8.75" height="126.125"/>
+<rect x="702.209" y="9.311" width="8.75" height="126.125"/>
+  
+  <style type="text/css">
+    
+    rect:nth-child(1) {
+        -webkit-animation: changeColor .5s 0s linear forwards;    
+    }
+    
+    rect:nth-child(2) {
+        -webkit-animation: changeColor .5s .2s linear forwards;    
+    }
+    
+    rect:nth-child(3) {
+        -webkit-animation: changeColor .5s .4s linear forwards;    
+    }
+    
+    rect:nth-child(4) {
+        -webkit-animation: changeColor .5s .6s linear forwards;    
+    }
+    
+    rect:nth-child(5) {
+        -webkit-animation: changeColor .5s .8s linear forwards;    
+    }
+    
+    rect:nth-child(6) {
+        -webkit-animation: changeColor .25s 1s linear forwards;    
+    }
+    
+    rect:nth-child(7) {
+        -webkit-animation: changeColor .5s 1.2s linear forwards;    
+    }
+    
+    rect:nth-child(8) {
+        -webkit-animation: changeColor .5s 1.4s linear forwards;    
+    }
+    
+    rect:nth-child(9) {
+        -webkit-animation: changeColor .5s 1.6s linear forwards;    
+    }
+    
+    rect:nth-child(10) {
+        -webkit-animation: changeColor .5s 1.8s linear forwards;    
+    }
+    
+    rect:nth-child(11) {
+        -webkit-animation: changeColor .5s 2s linear forwards;    
+    }
+    
+    rect:nth-child(12) {
+        -webkit-animation: changeColor .5s 2.2s linear forwards;    
+    }
+    
+    rect:nth-child(13) {
+        -webkit-animation: changeColor .5s 2.4s linear forwards;    
+    }
+    
+    rect:nth-child(14) {
+        -webkit-animation: changeColor .5s 2.6s linear forwards;    
+    }
+    
+    rect:nth-child(15) {
+        -webkit-animation: changeColor .5s 2.8s linear forwards;    
+    }
+    
+    rect:nth-child(16) {
+        -webkit-animation: changeColor .5s 3s linear forwards;    
+    }
+    
+    rect:nth-child(17) {
+        -webkit-animation: changeColor .5s 3.2s linear forwards;    
+    }
+    
+    rect:nth-child(18) {
+        -webkit-animation: changeColor .5s 3.4s linear forwards;    
+    }
+    
+    rect:nth-child(19) {
+        -webkit-animation: changeColor .5s 3.6s linear forwards;    
+    }
+    
+    rect:nth-child(20) {
+        -webkit-animation: changeColor .5s 3.8s linear forwards;    
+    }
+    
+    rect:nth-child(21) {
+        -webkit-animation: changeColor .5s 4s linear forwards;    
+    }
+    
+    rect:nth-child(22) {
+        -webkit-animation: changeColor .5s 4.2s linear forwards;    
+    }
+    
+    rect:nth-child(23) {
+        -webkit-animation: changeColor .5s 4.4s linear forwards;    
+    }
+    
+    rect:nth-child(24) {
+        -webkit-animation: changeColor .5s 4.6s linear forwards;    
+    }
+    
+    rect:nth-child(25) {
+        -webkit-animation: changeColor .5s 4.8s linear forwards;    
+    }
+    
+    rect:nth-child(26) {
+        -webkit-animation: changeColor .5s 5s linear forwards;    
+    }
+    
+    rect:nth-child(27) {
+        -webkit-animation: changeColor .5s 5.2s linear forwards;    
+    }
+    
+  
+    @-webkit-keyframes changeColor {
+        0%{
+          fill: #231f20;
+        }
+
+        100% {    
+          fill: #20b2a7;  
+        }
+    }
+    
+    
+	</style>
+</svg>
