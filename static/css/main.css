@@ -245,6 +245,7 @@ html, body, .pf-main-container {
   background: url(../images/photos/home.jpg);
   background-size: cover;
   z-index: 1;
+  background-position: center;
 }
 
 .logo {
